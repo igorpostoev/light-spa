@@ -1,0 +1,8 @@
+build
+node_modules
+*.log
+log
+logs
+*.lock
+*.json
+
